@@ -1,4 +1,4 @@
-##  Compiler Development & Theory
+## Compiler Development & Theory
 
 ### Books & PDFs
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 UEFI & BIOS Development
+## UEFI & BIOS Development
 
 ### Specifications & Standards
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🖥️ Driver Development
+## Driver Development
 
 ### Official Documentation
 
@@ -76,8 +76,8 @@
 ### Key Books
 
 * *Windows Internals: Part 1 – Architecture & Performance* by Russinovich, Solomon & Ionescu
-* *Programming the Microsoft Windows Driver Model* (2nd Edition) [PDF](https://empyreal96.github.io/nt-info-depot/Windows-DDK/Programming.the.Microsoft.Windows.Driver.Model.2nd.Edition.pdf) by Walter Oney
-* *Windows Kernel Programming* by Pavel Yosifovich (PDF attached)
+* *Programming the Microsoft Windows Driver Model* (2nd Edition) by Walter Oney
+* *Windows Kernel Programming* by Pavel Yosifovich
 
 ### Debugging & Tools
 
@@ -93,8 +93,70 @@
 
 * [NIST FIPS 140-2 Security Policy 4766](https://csrc.nist.gov/csrc/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp4766.pdf)
 * [NIST FIPS 140-2 Security Policy 869](https://csrc.nist.gov/csrc/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp869.pdf)
-* [Computing Handbook: Computer Science & Software Engineering](https://nibmehub.com/opac-service/pdf/read/Computing%20handbook%20_%20computer%20science%20and%20software%20engineering.pdf)
+* [Computing Handbook: Computer Science & Software Engineering](https://nibmehub.com/opac-service/pdf/read/Computing%20handbook_%20computer%20science%20and%20software%20engineering.pdf)
+
+### New Windows Kernel Resources
+
+* [WinKernel-Resources by NullArray](https://github.com/NullArray/WinKernel-Resources)
+* [Windows Kernel Resources by sam-b](https://github.com/sam-b/windows_kernel_resources)
+* [SAMSClass Windows Internals CCC Course](https://samsclass.info/126/WI2021_CCC.htm)
 
 ---
 
-*Last Updated: June 28, 2025*
+## Multicore & Chip Architectures
+
+* [Tiled Multicore Processors](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_1)
+* [On-Chip Networks for Multicore Systems](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_2)
+* [Composable Multicore Chips](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_3)
+* [Speculatively Multithreaded Architectures](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_4)
+* [Optimizing Memory Transactions for Multicore Systems](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_5)
+* [General-Purpose Multi-core Processors](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_6)
+* [Throughput-Oriented Multicore Processors](https://link.springer.com/chapter/10.1007/978-1-4419-0263-4_7)
+
+---
+
+## Security, Reverse Engineering & Infosec
+
+### GitHub & Toolkits
+
+* [infosec-resources by stong](https://github.com/stong/infosec-resources)
+* [al-khaser by LordNoteworthy](https://github.com/LordNoteworthy/al-khaser)
+* [Malware Analysis & Reverse Engineering by Dump-GUY](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering)
+* [Toolkit by Indetectables](https://github.com/indetectables-net/toolkit)
+
+### Blogs & Sites
+
+* [REP New Zealand Reverse Engineering](https://repnz.github.io/)
+* [TinyCrypt Blog](https://tinycrypt.wordpress.com/)
+* [ModExp Blog](https://modexp.wordpress.com/)
+* [Compiler Explorer (Godbolt)](https://godbolt.org/)
+* [Google Project Zero Blog](https://googleprojectzero.blogspot.com/)
+* [pwnable.kr Challenges](http://pwnable.kr/)
+* [CTF Wiki](https://ctf-wiki.org/)
+* [Publications by saaramar](https://github.com/saaramar/Publications)
+* [sploits by niklasb](https://github.com/niklasb/sploits)
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [HackTricks Book](https://book.hacktricks.xyz/)
+
+### Online Platforms & Challenges
+
+* [Begin RE (Browser-based RE)](https://www.begin.re/)
+* [DevTTYs0 Embedded RE Blog](http://www.devttys0.com/)
+* [pwn.college](https://pwn.college/)
+
+### Educational Resources
+
+* [Teach Yourself CS](https://teachyourselfcs.com/)
+* [Missing Semester by MIT CSAIL](https://missing.csail.mit.edu/)
+* [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series/)
+
+### Books
+
+* *Reversing: Secrets of Reverse Engineering* by Eldad Eilam ([Amazon](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817))
+* *Windows 2000 Device Driver Book* by Russinovich ([Amazon](https://www.amazon.com/Windows-2000-Device-Driver-Book/dp/0130204315))
+* *Windows Kernel Programming* by Pavel Yosifovich ([Amazon](https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich-ebook/dp/B07TJT1GTF))
+* *Practical Reverse Engineering* by Bruce Dang et al. ([Amazon](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/))
+
+### Steganography & Cryptography
+
+* [OpenPuff Steganography](https://www.embeddedsw.net/OpenPuff_Steganography_Home.html)
