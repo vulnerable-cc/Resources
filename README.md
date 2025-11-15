@@ -205,3 +205,76 @@
 * [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) – career & study roadmap
 
 ---
+
+## Virtual Machine Development
+
+### Books & PDFs
+
+* [Virtual Machines: Versatile Platforms for Systems and Processes (Smith & Nair)](https://www.ittc.ku.edu/~kulkarni/teaching/archieve/EECS800-Spring-2008/smith_nair.pdf)
+* [VM Design & Implementation Tutorial (Steve Lucco)](https://www.cs.tufts.edu/~nr/cs257/archive/steve-lucco/vm-design-implementation-tutorial.pdf)
+* [A Survey of Virtual Machine Research (Goldberg 1973)](https://flint.cs.yale.edu/cs428/doc/goldberg.pdf)
+* [Java Virtual Machine Specification (SE7)](https://docs.oracle.com/javase/specs/jvms/se7/jvms7.pdf)
+* [Virtual Machines (Craig et al.) – Archive.org Book Scan](https://archive.org/details/virtualmachines0000crai)
+* [Structure and Interpretation of Computer Programs (SICP)](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
+* *Virtual Machine Design and Implementation in C/C++* — Bill Blunden (Scribd)  
+  https://www.scribd.com/document/935065640/Virtual-Machine-Design-and-Implementation-C-C-689th-Edition-Bill-Blunden-pdf-available
+* *Advanced Design & Implementation of Virtual Machines* — (Scribd)  
+  https://www.scribd.com/document/924336495/Advanced-Design-and-Implementation-of-Virtual-Machines-instant-download-full-chapters
+
+### Research Papers & Academic PDFs
+
+* **A Survey on Virtualization Technologies (arXiv 2011)**  
+  https://arxiv.org/pdf/1112.5136
+
+* **Virtual Machine Introspection: Techniques & Applications (arXiv 2020)**  
+  https://arxiv.org/pdf/2011.12047
+
+* **Secure VM Architecture for Cloud Hypervisors (arXiv 2024)**  
+  https://arxiv.org/pdf/2403.04635
+
+* **CMU ECE 600 Lecture 19 — Virtualization**  
+  https://course.ece.cmu.edu/~ece600/lectures/lecture19.pdf
+
+* **“Operating Systems: Virtualization” (University Lecture Notes)**  
+  https://ndl.ethernet.edu.et/bitstream/123456789/42492/1/14.pdf
+
+### Architecture & Implementation
+
+* **Bytecode, Dispatch, and Interpreter Performance – Lucco’s Tutorial**  
+  (Already listed above; foundational techniques for stack vs register VMs)
+
+* **Goldberg Formal Requirements for Virtualizable Architectures**  
+  (Already listed; core theory behind CPU virtualization)
+
+* **Smith & Nair: Architectural Design for Virtual Machines**  
+  (Already listed; covers microarchitecture effects, JITs, interpreters)
+
+### Blogs & Online Tutorials
+
+* [Eli Bendersky: VM, Parsing & Interpreter Articles](https://eli.thegreenplace.net/)
+* [Lua 5.0 VM Architecture PDF](https://www.lua.org/doc/jucs05.pdf) — register-based VM design
+* [JVM Internals Guide](https://docs.oracle.com/javase/specs/jvms/se7/jvms7.pdf)
+
+### Courses & Lecture Series
+
+* **MIT 6.858 (Systems Security): Virtualization Lectures**  
+  Hypervisors, VM escapes, software/hardware virtualization.
+
+* **CMU 15-440 / 18-746 — Virtualization & Distributed Systems**  
+  (Lecture slides often include VM internals & hypervisor design)
+
+* **University Lecture Notes (Virtual Machines & Interpreters)**  
+  https://ndl.ethernet.edu.et/bitstream/123456789/42492/1/14.pdf
+
+### Source Code & Projects
+
+* **QEMU TCG** — dynamic binary translator & CPU emulation engine
+* **Unicorn Engine** — CPU emulator (whitepaper available)
+* **Bochs** — portable x86 CPU emulator with modular design
+
+### GitHub Repositories
+
+* [JikesRVM](https://github.com/JikesRVM/JikesRVM)
+* [QEMU](https://github.com/qemu/qemu)
+* [Unicorn Engine](https://github.com/unicorn-engine/unicorn)
+* [Bochs](https://github.com/bochs-emu/Bochs)
